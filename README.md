@@ -18,6 +18,6 @@ Soy un apasionado del desarrollo web con un enfoque firme en la **seguridad**. M
 ---
 
 ### 📫 Contacto
-- **LinkedIn:** [www.linkedin.com/in/david-rey-sanchez-b6185b356]
+- **LinkedIn:** www.linkedin.com/in/david-rey-sanchez-b6185b356
 - **Portafolio:** [https://davidrey0911.github.io/portafolio/](https://davidrey0911.github.io/portafolio/)
 - **Email:** davidrey091103@gmail.com
