@@ -13,9 +13,7 @@ Soy un apasionado del desarrollo web con un enfoque firme en la **seguridad**. M
 - **Herramientas:** Git, GitHub, XAMPP.
 
 ### 🛡️ Certificaciones Destacadas
-- **Google Cybersecurity Professional Certificate** ### 📈 Mi Actividad en GitHub
-![Stats de David](https://github-readme-stats.vercel.app/api?username=davidrey0911&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidrey0911&layout=compact&theme=radical)
+- **Google Cybersecurity Professional Certificate**
 
 ---
 
