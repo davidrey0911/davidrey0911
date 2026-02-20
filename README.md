@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy David Rey Sánchez 👋
 
-<!--
-**davidrey0911/davidrey0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Full Stack (DAW) y Especialista en Ciberseguridad
+Soy un apasionado del desarrollo web con un enfoque firme en la **seguridad**. Mi objetivo es crear aplicaciones que no solo sean funcionales y atractivas, sino también resilientes frente a amenazas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, Python, PHP, HTML5, CSS3.
+- **Frameworks:** Vue.js, Django, Bootstrap.
+- **Bases de Datos:** MySQL, PostgreSQL.
+- **Seguridad:** Análisis de vulnerabilidades, Redes y Linux.
+- **Herramientas:** Git, GitHub, XAMPP.
+
+### 🛡️ Certificaciones Destacadas
+- **Google Cybersecurity Professional Certificate** ### 📈 Mi Actividad en GitHub
+![Stats de David](https://github-readme-stats.vercel.app/api?username=davidrey0911&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidrey0911&layout=compact&theme=radical)
+
+---
+
+### 📫 Contacto
+- **LinkedIn:** [www.linkedin.com/in/david-rey-sanchez-b6185b356]
+- **Portafolio:** [https://davidrey0911.github.io/portafolio/](https://davidrey0911.github.io/portafolio/)
+- **Email:** davidrey091103@gmail.com
